@@ -28,12 +28,19 @@ Other Contributors To Date:
 For biological assay:
 
 Picogreen assay: Jim Sacchettini, TAMU
+
 Picogreen assay: Arunima, Ken's Lab, UNC
+
 Gel-based screening: Egor, Matthia's Lab, U Alberta
+
 In-vitro antiviral: Tim Sheahan, UNC
+
 In-vitro antiviral: Sara Chery, U Penn
+
 Solubility, Microsomal Stability: Analiza
+
 GSH Stability: WuXi
+
 Toxicity: In parallel to in-vitro antiviral assay, in the respective lab
 
 
