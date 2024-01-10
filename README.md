@@ -26,6 +26,7 @@ The [Sir James Murray Student Champion](https://www.thesgc.org/sgc-open-chemistr
 
 Other Contributors To Date: 
 For biological assay:
+
 Picogreen assay: Jim Sacchettini, TAMU
 Picogreen assay: Arunima, Ken's Lab, UNC
 Gel-based screening: Egor, Matthia's Lab, U Alberta
