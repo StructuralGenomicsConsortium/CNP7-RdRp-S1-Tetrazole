@@ -14,11 +14,16 @@ If you'd like to contact someone to talk about contributing, then write somethin
 
 Some humans involved in this CNP:  
 Dr Hadia Almahli, Chemist at University College London
+
 Professor Matthew Todd, University College London. Head of Chemistry Networks at the SGC (medchem) @mattodd  
-Dr Santha Santhakumar, SGC (project management) @Santha-SGC   
-Professor Tim Willson, 
-Dr Peter Brown, 
-Dr Anwar Hossain, 
+
+Dr Santha Santhakumar, SGC (project management) @Santha-SGC 
+
+Professor Tim Willson, University of North Carolina Chapel Hill - @tmw20653   
+
+Dr Peter Brown, University North Carolina Chapel Hill, project manager  
+
+Dr Anwar Hossain, University North Carolina Chapel Hill, compound managment - @ahsgc 
  
 
 [Pharma Champion](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki/Pharma-Industry-Champions): Vacant.    
