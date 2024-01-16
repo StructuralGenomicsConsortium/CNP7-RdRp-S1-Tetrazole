@@ -14,24 +14,17 @@ If you'd like to contact someone to talk about contributing, then write somethin
 
 Some humans involved in this CNP:  
 
-Dr Hadia Almahli, Chemist at University College London @HadiaAmahli
+Dr Hadia Almahli, chemist at University College London (medchem) @HadiaAmahli
 
-Professor Matthew Todd, University College London. Head of Chemistry Networks at the SGC (medchem) @mattodd  
+Professor Matthew Todd, University College London. Head of Chemistry Networks at the SGC (medchem, PI) @mattodd  
 
 Dr Santha Santhakumar, SGC (project management) @Santha-SGC 
 
-Professor Tim Willson, University of North Carolina Chapel Hill  @tmw20653   
+Professor Tim Willson, University of North Carolina Chapel Hill (medchem, PI)  @tmw20653   
 
 Dr Peter Brown, University North Carolina Chapel Hill, project manager @toluene44  
 
 Dr Anwar Hossain, University North Carolina Chapel Hill, compound managment @ahsgc 
- 
-
-[Pharma Champion](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki/Pharma-Industry-Champions): Vacant.    
-The [Sir James Murray Student Champion](https://www.thesgc.org/sgc-open-chemistry-networks/champions-program): Vacant.  
-
-Other Contributors To Date: 
-For biological assay:
 
 Picogreen assay: Prof Jim Sacchettini, TAMU  
 
@@ -49,8 +42,8 @@ GSH Stability: WuXi
 
 Toxicity: In parallel to in-vitro antiviral assay, in the respective lab  
 
-
-Potential Contributors:
+[Pharma Champion](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki/Pharma-Industry-Champions): Vacant.    
+The [Sir James Murray Student Champion](https://www.thesgc.org/sgc-open-chemistry-networks/champions-program): Vacant. 
 
 
 You can see other contributors in the Issues (tab above).
