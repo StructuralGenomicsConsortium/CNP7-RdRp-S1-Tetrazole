@@ -1,5 +1,7 @@
 # CNP7-RdRp-S1-Tetrazole
 
+Note - this project is now _**paused**_, as you can read in the Story So Far page on the wiki.
+
 An [SGC]((https://www.thesgc.org/)) Open Chemistry Networks Project (number 7) devoted to improving a potential hit found against SARS-CoV-2 RdRp. The project is run as part of the READDI-AViDD consortium.
 
 You contribute synthetic chemistry and in return the SGC/READDI offers biology. Together we can generate tool compounds to understand biology and validate drug targets to help cure disease. Everything is open, with all content governed by a CC-BY-4.0 licence.
